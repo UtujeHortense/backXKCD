@@ -13,8 +13,8 @@ const bodyParser = require('body-parser');
 
 
 
-const PORT = 8080;
-const HOST = 'https://lazy-blue-hen-robe.cyclic.app';
+//const PORT = 8080;
+//const HOST = 'https://lazy-blue-hen-robe.cyclic.app';
 
 //App
 const app = express()
